@@ -1,0 +1,11 @@
+button {
+    width: 200px;
+    height: 60px;
+}
+
+div {
+    width: 80%;
+    padding-left: auto;
+    padding-top: 20%;
+    border: 10px solide #0D8;
+}
